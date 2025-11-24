@@ -9,7 +9,7 @@
 
   <br>
 
- ![snake gif](https://github.com/notfirsttt/notfirsttt/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/rizzzex/rizzzex/blob/output/github-snake-dark.svg)
 
   <br>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=notfirsttt&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=rizzzex&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
@@ -85,8 +85,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfirsttt&layout=compact&theme=dracula" style="width: 37%;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=notfirsttt&layout=compact&theme=dracula" style="width: 40%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzex&layout=compact&theme=dracula" style="width: 37%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rizzzex&layout=compact&theme=dracula" style="width: 40%;" />
   </div>
 </div>
 
