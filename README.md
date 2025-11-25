@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rizkulloh Alpriyansah<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<!-- <h1 align="center">Hi, I'm Rizkulloh Alpriyansah<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Front End Developer</h3>
 
 <br>
@@ -90,4 +90,4 @@
   </div>
 </div>
 
-<br>
+<br> -->
