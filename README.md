@@ -63,14 +63,13 @@ The combination of design creativity and technical skills has opened many opport
 
 ## Frequently used Language
 
-<div align="center" style="margin-top: 40px;">
+<div style="margin-top: 40px;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzex&layout=compact&theme=dracula" style="width: 37%;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rizzzex&layout=compact&theme=dracula" style="width: 40%;" />
   </div>
 </div>
 
-<div align="center">
+<div>
   <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=rizzzex&theme=dark" alt="GitHub Streak" />
 </a>
