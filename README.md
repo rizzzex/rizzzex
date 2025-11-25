@@ -1,5 +1,7 @@
-<h1>Hi! I'm <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cris Mll" style="width: 33px; margin-right: 10px;">Rizkulloh Alpriyansah</h1>
-<!-- <h3 align="center">Front End Developer</h3> -->
+<div style="display: flex; align-items: center;">
+  <h1>Hi! I'm <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cris Mll" style="width: 33px; margin-right: 10px;">Rizkulloh Alpriyansah  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+  <h3 align="center">Front End Developer</h3>
+</div>
 
 <br>
 
