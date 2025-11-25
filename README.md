@@ -1,16 +1,11 @@
-<!-- 
 <h1 align="center">Hi, I'm Rizkulloh Alpriyansah<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Front End Developer</h3>
+<!-- <h3 align="center">Front End Developer</h3> -->
 
 <br>
 
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-
-  <br>
-
- ![snake gif](https://github.com/rizzzex/rizzzex/blob/output/github-snake-dark.svg)
 
   <br>
 
@@ -26,7 +21,7 @@
   <img src="https://img.shields.io/badge/Corel%20Draw-%23000000.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="Corel Draw" />
 
   <br>
-
+<!--
   <h3 align="center">Framework</h3>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" />
@@ -37,9 +32,9 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-
+-->
   <br>
-
+<!--
   <h3 align="center">Hosting/SaaS & VM</h3>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -48,7 +43,7 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
   <br>
-
+<!--
   <h3 align="center">Languages</h3>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -64,11 +59,8 @@
 </div>
 
 <br>
-
 <div align="center">
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=rizzzex&theme=dark)](https://git.io/streak-stats)
-  
 </div>
 
 <br>
@@ -81,4 +73,3 @@
 </div>
 
 <br>
--->
