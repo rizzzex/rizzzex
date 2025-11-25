@@ -72,6 +72,6 @@ The combination of design creativity and technical skills has opened many opport
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rizzzex&theme=dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=rizzzex" alt="GitHub Streak" />
+</a>
 </div>
