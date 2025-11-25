@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rizkulloh Alpriyansah<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi! I'm <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cris Mll" style="width: 33px; margin-right: 10px;">Rizkulloh Alpriyansah</h1>
 <!-- <h3 align="center">Front End Developer</h3> -->
 
 <br>
