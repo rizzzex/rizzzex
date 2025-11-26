@@ -78,15 +78,12 @@ The combination of design creativity and technical skills has opened many opport
 <br/>
 
 ## Frequently used Language
-
-<div style="margin-top: 40px;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzex&layout=compact&theme=dracula" style="width: 37%;" />
   </div>
-</div>
 
-<div>
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=rizzzex&theme=dark" alt="GitHub Streak" />
-</a>
-</div>
+## My Github Stats
+![](https://github-readme-stats.vercel.app/api?username=rizzzex&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rizzzex&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzzex&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
